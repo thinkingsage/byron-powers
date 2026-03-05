@@ -1,0 +1,9 @@
+{
+  "name": "byron-powers",
+  "version": "1.0.0",
+  "description": "Literary and publishing skills for novelists, technical authors, and publishing professionals",
+  "author": {
+    "name": "Steven J. Miklovic"
+  },
+  "keywords": ["writing", "publishing", "fiction", "technical-writing", "literary-agent"]
+}
