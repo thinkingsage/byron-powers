@@ -1,0 +1,34 @@
+:root {
+	--bg: #0f0f0f;
+	--bg-card: #1a1a2e;
+	--bg-hover: #16213e;
+	--text: #e0e0e0;
+	--text-muted: #8892a4;
+	--accent: #e2b340;
+	--accent-dim: #c49a2a;
+	--border: #2a2a3e;
+	--font-body: 'Georgia', 'Times New Roman', serif;
+	--font-mono: 'JetBrains Mono', 'Fira Code', monospace;
+}
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	font-family: var(--font-body);
+	background: var(--bg);
+	color: var(--text);
+	line-height: 1.7;
+	min-height: 100vh;
+}
+
+a {
+	color: var(--accent);
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: underline;
+}
