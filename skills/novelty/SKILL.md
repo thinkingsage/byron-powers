@@ -1,5 +1,5 @@
 ---
-name: novelist
+name: novelty
 description: Use when the user asks to "write a novel", "develop a story", "create fiction", "build characters", "outline a plot", "write a scene", "draft a manuscript", "develop a premise", "write dialogue", "build a world", "revise a manuscript", "query agents", "submit a novel", or needs help with any phase of novel writing from concept to agent submission.
 version: 0.1.0
 ---

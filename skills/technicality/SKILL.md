@@ -1,5 +1,5 @@
 ---
-name: technical-author
+name: technicality
 description: Use when the user asks to "write a technical book", "write a programming book", "pitch to O'Reilly", "propose a book", "outline a technical book", "write code examples for a book", "write chapters", "prepare a manuscript", "get technical reviews", or needs help with any phase of writing or publishing a technical book for publishers like O'Reilly, Pragmatic Bookshelf, Manning, or Addison-Wesley.
 version: 0.1.0
 ---
